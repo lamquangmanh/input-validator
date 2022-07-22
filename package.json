@@ -41,7 +41,7 @@
   },
   "homepage": "https://github.com/lamquangmanh/input-validator#readme",
   "dependencies": {
-    "file-type": "^10.11.0",
+    "file-type": "^16.5.4",
     "image-size": "^0.7.4",
     "mime-types": "^2.1.24",
     "moment": "^2.24.0",
